@@ -60,7 +60,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>💰 Учёт личных финансов</h1>
+      <h1>Учёт личных финансов</h1>
       
       <Balance 
         income={totalIncome} 
